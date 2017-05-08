@@ -1,0 +1,10 @@
+INSERT INTO insurance_dimension (insurance_key, the_insurance, the_max_coverage) VALUES ('1','Obamacare health insurance plans for individuals and families', 45677);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('2','Employer-based health insurance plan',10000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('3','Qualified Health Plans',5000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('4','Catastrophic Plans',20000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('5','Government-sponsored health insurance coverage',15000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('6','Short-Term Health Insurance',3000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('7','Gap Insurance',5000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('8','HMO',10000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('9','PPO',20000);
+INSERT INTO insurance_dimension (insurance_key ,the_insurance ,the_max_coverage) VALUES ('10','EPO ',25000);

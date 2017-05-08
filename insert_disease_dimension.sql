@@ -1,0 +1,10 @@
+INSERT INTO disease_dimension (disease_key, the_disease) VALUES ('1','Heart Disease');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('2','Cancer');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('3','Chronic Lower Respiratory Disease');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('4','Stroke');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('5','Alzheimers Disease');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('6','Diabetes');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('7','Influenza and Pneumonia');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('8','Kidney Disease');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('9','Meningitis');
+INSERT INTO disease_dimension (disease_key ,the_disease) VALUES ('10','Microcephaly');
